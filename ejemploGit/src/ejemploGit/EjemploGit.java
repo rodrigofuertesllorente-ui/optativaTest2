@@ -9,6 +9,8 @@ public class EjemploGit {
 		System.out.println("hola 2 📶");
 		
 		System.out.println("hola 3 :)");
+	
+		System.out.println("Solo rama 2");
 		
 	}
 	
